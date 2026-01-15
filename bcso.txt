@@ -1,1 +1,1 @@
-$choices = "AH-OU-BCSO-BM-Jail", "AH-OU-BCSO-BM-Jail-Dckt&Mdcl", "AH-OU-BCSO-BM-Jail-Pods", "AH-OU-BCSO-BM-Jail-Trnsprtn", "AH-OU-BCSO-BM", "AH-OU-BCSO-EOC", "AH-OU-BCSO-X", "AH-OU-BCSO-Y", "AH-OU-BCSO-Ptrl", "AH-OU-BCSO-R"
+$choices = AH-OU-BCSO-BM-Jail, AH-OU-BCSO-BM-Jail-Dckt&Mdcl, AH-OU-BCSO-BM-Jail-Pods, AH-OU-BCSO-BM-Jail-Trnsprtn, AH-OU-BCSO-BM, AH-OU-BCSO-EOC, AH-OU-BCSO-X, AH-OU-BCSO-Y, AH-OU-BCSO-Ptrl, AH-OU-BCSO-R
